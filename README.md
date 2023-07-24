@@ -1,2 +1,2 @@
 # LargeLanguageModels
-LLMs using OpenAI, LangChain, and more.
+LLMs using OpenAI, programmatically using ChatGPT APIs for development, and building a chatbot.
